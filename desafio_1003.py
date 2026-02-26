@@ -14,4 +14,7 @@ de A e B.
 
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1003
 
-# Escreva sua solução abaixo
+A = int(input("Digite o 1°n inteiro") 
+B = int(input("Digite o 2°n inteiro ") 
+SOMA = A + B
+print(f"SOMA = {SOMA}")

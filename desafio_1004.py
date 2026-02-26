@@ -14,4 +14,8 @@ caso contrário seu programa apresentará a mensagem: "Presentation Error".
 
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1004
 
-# Escreva sua solução abaixo
+
+A = int(input("Digite o 1º número"))
+B = int(input("Digite o 2º número"))
+PROD = A+B
+print(f"PROD = {PROD}")

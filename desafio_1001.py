@@ -11,4 +11,7 @@ você receberá "Presentation Error".
 
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1001
 
-# Escreva sua solução abaixo
+A = input ("Digite o 1º número")
+B = input ("Digite o 2º número")
+X = A+B
+print(f"X = {X}")

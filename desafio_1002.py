@@ -17,7 +17,9 @@ exemplo abaixo, com 4 casas após o ponto decimal. Utilize variáveis de dupla p
 
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1002
 
-raio = float(input().strip())
-pi = 3.14159
-area = pi * (raio ** 2)
-print(f"A={area:.4f}")
+A = float(input())
+B = float(input())
+
+MEDIA = (A * 3.5 + B * 7.5) / 11
+
+print(f"MEDIA = {MEDIA:.5f}")

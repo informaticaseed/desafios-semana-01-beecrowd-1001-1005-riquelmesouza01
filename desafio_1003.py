@@ -14,7 +14,10 @@ de A e B.
 
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1003
 
-A = int(input("Digite o 1°n inteiro") 
-B = int(input("Digite o 2°n inteiro ") 
+A = int(input("Digite o 1° valor "))
+B = int(input("Digite o 2° valor"))
+
 SOMA = A + B
-print(f"SOMA = {SOMA}")
+
+print("SOMA =", SOMA)
+     
